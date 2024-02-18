@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c036b683-cbb8-4980-90f1-8bd55398674a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2bhNKSnB6ls5H8yuT3IEssYSrHg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ReplState" timestamp="1706699832532">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunManager" selected="Clojure Application.estoque.aula6">
+    <configuration name="REPL for estoque" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="estoque" />
+      <setting name="displayName" value="REPL for estoque" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estoque.aula4" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="estoque" />
+      <setting name="path" value="$PROJECT_DIR$/src/estoque/aula4.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/estoque" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estoque.aula5" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="estoque" />
+      <setting name="path" value="$PROJECT_DIR$/src/estoque/aula5.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/estoque" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estoque.aula6" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="estoque" />
+      <setting name="path" value="$PROJECT_DIR$/src/estoque/aula6.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/estoque" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.estoque.aula6" />
+        <item itemvalue="Clojure Application.estoque.aula5" />
+        <item itemvalue="Clojure Application.estoque.aula4" />
+        <item itemvalue="Clojure REPL.REPL for estoque" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c036b683-cbb8-4980-90f1-8bd55398674a" name="Default Changelist" comment="" />
+      <created>1706663286473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706663286473</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1706692735627">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="676" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706692735627" />
+    <state width="1330" height="253" key="GridCell.Tab.0.bottom" timestamp="1706700007339">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1330" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706700007339" />
+    <state width="1330" height="253" key="GridCell.Tab.0.center" timestamp="1706700007339">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1330" height="253" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706700007339" />
+    <state width="1330" height="253" key="GridCell.Tab.0.left" timestamp="1706700007339">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1330" height="253" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706700007339" />
+    <state width="1330" height="253" key="GridCell.Tab.0.right" timestamp="1706700007339">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1330" height="253" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706700007339" />
+    <state width="1330" height="315" key="GridCell.Tab.1.bottom" timestamp="1706690253616">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1330" height="315" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706690253616" />
+    <state width="1330" height="315" key="GridCell.Tab.1.center" timestamp="1706690253616">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1330" height="315" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706690253616" />
+    <state width="1330" height="315" key="GridCell.Tab.1.left" timestamp="1706690253616">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1330" height="315" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706690253616" />
+    <state width="1330" height="315" key="GridCell.Tab.1.right" timestamp="1706690253616">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1330" height="315" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706690253616" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1706666924319">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706666924319" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1707046495552">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1707046495552" />
+    <state x="231" y="227" key="new project wizard" timestamp="1707046621599">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="231" y="227" key="new project wizard/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1707046621599" />
+    <state x="517" y="15" width="883" height="1034" key="search.everywhere.popup" timestamp="1706673122890">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="517" y="15" width="883" height="1034" key="search.everywhere.popup/0.0.1920.1050/1920.0.800.570@0.0.1920.1050" timestamp="1706673122890" />
+  </component>
+</project>
